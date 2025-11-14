@@ -1,0 +1,3 @@
+manim
+numpy
+# Add any other dependencies here if needed
